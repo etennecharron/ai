@@ -1,2 +1,2 @@
-# OpenAI
-this is a test to try openAI
+# ai
+this is a test to try ai
